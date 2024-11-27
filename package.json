@@ -1,6 +1,6 @@
 {
-  "homepage": "",
-  "name": "bitcot",
+  "homepage": "https://andrewraymondraj.github.io/ContactsTask/",
+  "name": "Contacts",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
