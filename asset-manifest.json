@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ContactsTask/static/css/main.af424e71.css",
+    "main.js": "/ContactsTask/static/js/main.0a388711.js",
+    "index.html": "/ContactsTask/index.html",
+    "main.af424e71.css.map": "/ContactsTask/static/css/main.af424e71.css.map",
+    "main.0a388711.js.map": "/ContactsTask/static/js/main.0a388711.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af424e71.css",
+    "static/js/main.0a388711.js"
+  ]
+}
